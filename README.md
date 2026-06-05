@@ -1,1 +1,1 @@
-I'm interested in financial investment using AI agent.
+I'm interested in financial investment using multi-agent AI.
