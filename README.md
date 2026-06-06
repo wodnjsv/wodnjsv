@@ -1,1 +1,1 @@
-I'm interested in financial investment using multi-agent AI.
+I like agent engineering.
