@@ -1,1 +1,1 @@
-I like agentic engineering.
+금융권 IT 취업하고 싶어요.
